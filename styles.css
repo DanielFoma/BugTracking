@@ -1,0 +1,22 @@
+.text{
+
+  max-height: 200px;
+  margin: auto;
+  width: 100%;
+}
+.cont{
+  width: 22%;
+   padding: 25px;
+   background: #fff;
+   border-radius: 8px;
+   box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+   margin: 100px auto 0;
+ }
+ .login{
+     padding: 0 0 10px;
+ }
+ .sub{
+   width: 100%;
+ }
+
+ 
